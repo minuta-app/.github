@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://minuta-app.github.io/minuta/apple-touch-icon.png" width="72" alt="Minuta">
+  <img src="logo.png" width="72" alt="Minuta">
 </p>
 
 <h3 align="center">Minuta — notas de reuniones con IA, privadas y gratis</h3>
